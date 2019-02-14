@@ -1,0 +1,9 @@
+{
+    "require": {
+        "bcosca/fatfree": "*",
+        "vlucas/valitron": "^1.2",
+        "dompdf/dompdf": "0.6.*",       
+        "ikkez/f3-opauth":"dev-master",
+        "veritrans/veritrans-php": "dev-snap"
+    }
+}
